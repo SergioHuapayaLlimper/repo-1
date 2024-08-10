@@ -1,6 +1,4 @@
-a = 5
-b = 13
-nombre = "Sergio"
+nombre = "Soy Sergio"
 apellido = "Huapaya"
 
 print(nombre + " " + apellido + " tiene 18 años.")
